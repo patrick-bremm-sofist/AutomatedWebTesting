@@ -12,14 +12,14 @@ This project demonstrates how to use Selenium with Python to automate a Google s
 
 2. Create and activate a virtual environment (optional but recommended):
 
-```bash
+```
 python -m venv venv
 source venv/bin/activate
 ```
 
 3. Install the required packages:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 Run the script to perform a Google search and print the results:
 
-```bash
+```
 python src/google_search.py
 ```
 
