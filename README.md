@@ -35,5 +35,5 @@ python src/google_search.py
 
 The project depends on the following Python packages:
 
-* selenium==4.10.0
-* webdriver-manager==4.0.0
+* selenium==4.22.0
+* webdriver-manager==4.0.1
